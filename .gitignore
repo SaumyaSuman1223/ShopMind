@@ -1,0 +1,4 @@
+# Datasets are large and re-downloadable; never commit them
+data/raw/
+data/interim/
+data/processed/
